@@ -69,3 +69,11 @@ h3 {
   font-size: 20px;
   margin-bottom: 10px;
 }
+#total {
+  border-bottom: 2px solid rgb(48, 47, 47);
+  padding: 15px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+}
